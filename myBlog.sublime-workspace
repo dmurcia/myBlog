@@ -1,0 +1,606 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"modal",
+				"modal-body"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"emia",
+				"emailModal"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"emai",
+				"emailModal"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"Ta",
+				"tahoma"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"po",
+				"pos:r	position:relative"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"main",
+				"mainContent"
+			],
+			[
+				"transit",
+				"transition-timing-function"
+			],
+			[
+				"trasni",
+				"transition-property"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"show",
+				"showTooltip"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"lig",
+				"light-blue"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"scro",
+				"scrollSection"
+			],
+			[
+				"scr",
+				"scroll	.scroll()"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"scroll",
+				"scrollSection"
+			],
+			[
+				"curren",
+				"currentSection"
+			],
+			[
+				"wi",
+				"winTop"
+			],
+			[
+				"sc",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"top",
+				"topSection"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"off",
+				"offset	.offset"
+			],
+			[
+				"tar",
+				"targetId"
+			],
+			[
+				"data",
+				"dataAttr"
+			],
+			[
+				"html",
+				"htmlbody"
+			],
+			[
+				"nav",
+				"navigation"
+			],
+			[
+				"blue-da",
+				"blue-dark"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fonta",
+				"font-family-bold"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"content",
+				"content-item"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"boir",
+				"border-radius"
+			],
+			[
+				"red",
+				"red-light"
+			],
+			[
+				"bl",
+				"blue	blue()"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tras",
+				"transform"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: bs3-col-12"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jose.ocampo/Projects/botellas/logic.js",
+		"/C/Users/jose.ocampo/Projects/botellas/cajaPablo.js",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/excursiones-individuales.html",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/listado-pack-excursiones-carrito-plegado.html",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/listado-pack-excursiones.html",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/pullmantur/site/listado-pack-excursiones-carrito-plegado.html",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/pack-seleccionado-localizador.html",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/pullmantur/site/pack-seleccionado-localizador.html",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/pullmantur/site/excursiones-individuales.html",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/listado-pack-excursiones.html.bak",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/pullmantur/site/listado-pack-excursiones.html",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/.sass-cache/83ab3b067ad474f5ec69ce4937063cfe84c83323/_labels.scssc",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/confirmacion-reserva.html",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/pullmantur/site/sass/screen.sass",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/stylesheets/screen.css",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/sass/config.sass",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/sass/ie.sass",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/sass/screen.sass",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/js/main.js",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/js/config.js",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/config.rb",
+		"/C/wamp/www/wordpress/wp-content/index.php",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/scripts/app/navigation.js",
+		"/C/wamp/www/wordpress/wp-config.php",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/scripts/lib/scrollSectionsPlugins.js",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/scripts/lib/jquery.scrollSections-0.4.3.min.js",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/scripts/lib/jquery.min.js",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/scripts/config.js",
+		"/C/Users/jose.ocampo/Documents/GitHub/jQuery.scrollSections/example/js/plugins.js",
+		"/C/Users/jose.ocampo/Documents/GitHub/jQuery.scrollSections/example/css/style.css",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/scripts/main.js",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/scripts/lib/domReady.js",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/sass/screen.sass",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/sass/config.sass",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/scripts/app/main.js",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/scripts/app.js",
+		"/C/wamp/www/socialLearning/app/js/main.js",
+		"/C/wamp/www/socialLearning/app/js/app.js",
+		"/C/wamp/www/socialLearning/app/js/views/ApprovalPage.js",
+		"/C/wamp/www/socialLearning/app/js/channel.js",
+		"/C/wamp/www/socialLearning/app/require.js",
+		"/C/wamp/www/socialLearning/package.json",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/sass/bootstrap-custom.sass",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/app.js",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/bower.json",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/scripts/lib/require.js",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/config.rb",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/LiveStyle/LiveStyle.sublime-settings",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/sass/fonts.sass",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/other.html",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/User/SassBeautify.sublime-settings",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/styles/screen.css",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/styles/config.css",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/styles/bootstrap-custom.css",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/sass/print.sass",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/jose.ocampo/Projects/Portfolio/site/sass/fonts.scss",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/C/Users/jose.ocampo/Projects/Portfolio/Fonts/webfontkit-20140709-133832/stylesheet.css",
+		"/C/wamp/www/portfolio/sass/screen.scss",
+		"/C/wamp/www/portfolio/index.html",
+		"/C/wamp/www/portfolio/config.rb",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+		"/C/Users/jose.ocampo/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/C/Users/jose.ocampo/web-starter-kit/app/index.html",
+		"/C/wamp/www/raid/Default.html",
+		"/C/Users/jose.ocampo/Downloads/Sand/tests/cssSandpaper/skewTest.html",
+		"/C/Users/jose.ocampo/Desktop/test2.html",
+		"/C/Users/jose.ocampo/Desktop/test.html",
+		"/C/Users/jose.ocampo/Downloads/Sand/tests/cssSandpaper/css/skewTest.css",
+		"/C/Users/jose.ocampo/Downloads/tests/cssSandpaper/skewTest.html",
+		"/C/Users/jose.ocampo/Downloads/tests/cssSandpaper/css/skewTest.css",
+		"/C/wamp/www/patterns/index.html",
+		"/C/Users/jose.ocampo/Desktop/television/script.js",
+		"/C/Windows/Microsoft.NET/Framework/v2.0.50727/CONFIG/machine.config",
+		"/C/Users/jose.ocampo/Desktop/Proyecto/televisor.js",
+		"/C/wamp/www/patterns/constructorPattern.js",
+		"/C/wamp/www/patterns",
+		"/C/Users/jose.ocampo/Avventa Trabajos/Hersheys/hersheyswrapha/Wrap Happiness/WrapHappiness.Web/javascript/slider.js",
+		"/C/wamp/www/socialLearning/app/js/helpers/search.js",
+		"/C/wamp/www/socialLearning/app/js/helpers/utils.js",
+		"/C/wamp/bin/apache/Apache2.4.4/conf/extra/httpd-vhosts.conf",
+		"/C/wamp/www/raid/Content/solutions.less",
+		"/C/wamp/www/raid/Scripts/main.js",
+		"/C/wamp/www/autonation/.htaccess",
+		"/C/Users/jose.ocampo/Desktop/sample/bonds.json",
+		"/C/Users/jose.ocampo/Desktop/sample/index.html",
+		"/C/Users/jose.ocampo/Desktop/info.php",
+		"/C/Users/jose.ocampo/Desktop/jquery.transition.js-master/transition bugs/script.js",
+		"/C/Users/jose.ocampo/Desktop/jquery.transition.js-master/transition bugs/prettify.js",
+		"/C/Users/jose.ocampo/Desktop/jquery.transition.js-master/transition bugs/style.css",
+		"/C/Users/jose.ocampo/Desktop/jquery.transition.js-master/transition bugs/index.html",
+		"/C/Users/jose.ocampo/Desktop/jquery.transition.js-master/transition bugs/reset.css",
+		"/C/Users/jose.ocampo/Desktop/reveal.js-master/reveal.js-master/index.html",
+		"/C/Users/jose.ocampo/Downloads/download",
+		"/C/Users/jose.ocampo/Desktop/reveal.js-master/js/reveal.js",
+		"/C/Users/jose.ocampo/Desktop/reveal.js-master/index.html",
+		"/C/Users/jose.ocampo/Avventa Trabajos/SCJohnson/Raid/Redisign/Fonts/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
+		"/C/Users/jose.ocampo/Avventa Trabajos/SCJohnson/Raid/Redisign/Fonts/webfontkit-20140210-151326/stylesheet.css",
+		"/C/Users/jose.ocampo/Avventa Trabajos/SCJohnson/Raid/Redisign/Fonts/webfontkit-20140210-151809/stylesheet.css",
+		"/C/Users/jose.ocampo/Desktop/reviews.html",
+		"/C/Users/jose.ocampo/Desktop/1.less",
+		"/C/Users/jose.ocampo/Avventa Trabajos/SCJohnson/Ziploc/Ziploc 180/SCJ.Ziploc.Fresh180/SCJ.Ziploc.Fresh180.Mockups/Scripts/backgroundsize.min.htc",
+		"/C/Users/jose.ocampo/Plugins/h5bp-html5-boilerplate-v4.2.0-0-g0adda79/h5bp-html5-boilerplate-defe483/css/main.css",
+		"/C/Users/jose.ocampo/Downloads/bootstrap/css/bootstrap.css",
+		"/C/Users/jose.ocampo/Avventa Trabajos/SCJohnson/Ziploc/Ziploc 180/Mockup/feat_landing_template.html",
+		"/C/Users/jose.ocampo/Documents/Visual Studio 2012/WebSites/ziploc180/Content/base.css",
+		"/C/Users/jose.ocampo/Avventa Trabajos/SCJohnson/Ziploc/Ziploc 180/Mockup/index.html",
+		"/C/Users/jose.ocampo/Avventa Trabajos/SCJohnson/Ziploc/Ziploc 180/Fonts/Museo/webfontkit-20131112-114614/stylesheet.css",
+		"/C/Users/jose.ocampo/Avventa Trabajos/SCJohnson/Ziploc/Ziploc 180/Fonts/Museo/webfontkit-20131111-172758/stylesheet.css",
+		"/C/Users/jose.ocampo/Plugins/h5bp-html5-boilerplate-72cdf1e/css/main.css",
+		"/C/Users/jose.ocampo/Plugins/h5bp-html5-boilerplate-3cd1967/css/main.css",
+		"/C/Users/jose.ocampo/Plugins/initializr-verekia-4.0/initializr/css/main.css",
+		"/C/Users/jose.ocampo/Downloads/initializr-verekia-4.0/initializr/css/main.css",
+		"/C/Users/jose.ocampo/Documents/Visual Studio 2012/WebSites/ziploc180/Category.aspx",
+		"/C/Users/jose.ocampo/Documents/Visual Studio 2012/WebSites/ziploc180/Default.aspx",
+		"/C/Users/jose.ocampo/Documents/Visual Studio 2012/WebSites/ziploc180/Master.master"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"modal-pack",
+			"send-confirmation",
+			"btn-blue",
+			".pack-basic",
+			"pack basi",
+			"] ",
+			"confirmation-pack",
+			"available-excursions",
+			"feature-image",
+			"btn-green-select select-individuals add-to-cart excursion-btn",
+			"feature-image",
+			"container-main-excursion",
+			"excursion-description",
+			"excursion-list",
+			"feature-image",
+			"btn-continue",
+			"localizator",
+			"localizator ",
+			"localizator",
+			"confirm-reservation",
+			".car-panel",
+			".confirm-reservation",
+			"locate-container",
+			".locate-number",
+			".localizator",
+			"h4",
+			"total-prices-container",
+			"table-prices",
+			".tracking-locale",
+			".localizator",
+			"localizator ",
+			"btn-add-text",
+			"add-localizator",
+			">\n",
+			"container",
+			"pack-excursions-panel ",
+			"rewrite",
+			"mode_re",
+			"content-profile-img",
+			"topSection",
+			"1px solid #dedddd\n			.content-description\n				backgroun",
+			"&",
+			"474d5d",
+			"media",
+			"chevron-container",
+			">\n",
+			"chevron-wrapper",
+			"AvenirLTStd-Black, ",
+			"chevron-container",
+			"content",
+			"eventie",
+			"<img src=\"http://mockups.raidkillsbugs.com/Images/Icons/question-expand-icon.png\" alt=\"Video Icon\" /></a>",
+			"<a href=\"#\" class=\"video-icon\">",
+			"<img class=\"arrow-tip\" src=\"http://mockups.raidkillsbugs.com/Images/Content/tip.png\" alt=\"Tip\" />",
+			"Images/Icons/question-expand-icon.png",
+			"Images/Content/tip.png",
+			"Images/Content/question1.jpg",
+			"count-template",
+			"search-icon.jpg",
+			"slider-bar.png",
+			"share.png",
+			"share.png ",
+			"HORIZONTAL_SLIDES_SELECTOR",
+			"VERTICAL_SLIDES_SELECTOR",
+			"screen-min",
+			"@media",
+			"exljbris_-_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"http://mockups.raidkillsbugs.com/Images/Icons/question-expand-icon.png",
+			"http://mockups.raidkillsbugs.com/Images/Content/tip.png",
+			"http://mockups.raidkillsbugs.com/Images/Content/question1.jpg",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "myBlog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"pack-seleccionado-localizador.html"
+			],
+			[
+				"lista",
+				"listado-pack-excursiones-carrito-plegado.html"
+			],
+			[
+				"listad",
+				"listado-pack-excursiones.html"
+			],
+			[
+				"confi",
+				"confirmacion-reserva.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\jose.ocampo\\Avventa Trabajos\\Pullmantur\\pullmantur.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
