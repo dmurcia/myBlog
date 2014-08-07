@@ -219,11 +219,22 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "",
+			"file": "theme_wp/index.html",
+			"file_size": 0,
+			"file_write_time": 130518993668535357,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 375.0,
+		"height": 469.0,
 		"selected_items":
 		[
 			[
@@ -243,7 +254,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 498.0
+		"width": 685.0
 	},
 	"console":
 	{
@@ -264,6 +275,9 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/myBlog/theme_wp/style.css",
+		"/C/wamp/www/myBlog/theme_wp/css/responsive.css",
+		"/C/wamp/www/myBlog/theme_wp/css/reset.css",
 		"/C/Users/jose.ocampo/Projects/botellas/logic.js",
 		"/C/Users/jose.ocampo/Projects/botellas/cajaPablo.js",
 		"/C/Users/jose.ocampo/Avventa Trabajos/Pullmantur/site/excursiones-individuales.html",
@@ -388,8 +402,7 @@
 		"/C/Users/jose.ocampo/Plugins/initializr-verekia-4.0/initializr/css/main.css",
 		"/C/Users/jose.ocampo/Downloads/initializr-verekia-4.0/initializr/css/main.css",
 		"/C/Users/jose.ocampo/Documents/Visual Studio 2012/WebSites/ziploc180/Category.aspx",
-		"/C/Users/jose.ocampo/Documents/Visual Studio 2012/WebSites/ziploc180/Default.aspx",
-		"/C/Users/jose.ocampo/Documents/Visual Studio 2012/WebSites/ziploc180/Master.master"
+		"/C/Users/jose.ocampo/Documents/Visual Studio 2012/WebSites/ziploc180/Default.aspx"
 	],
 	"find":
 	{
@@ -497,8 +510,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "theme_wp/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -541,6 +585,10 @@
 	{
 		"height": 0.0
 	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
 	"project": "myBlog.sublime-project",
 	"replace":
 	{
@@ -573,15 +621,15 @@
 	},
 	"select_project":
 	{
-		"height": 500.0,
+		"height": 625.0,
 		"selected_items":
 		[
 			[
 				"",
-				"C:\\Users\\jose.ocampo\\Avventa Trabajos\\Pullmantur\\pullmantur.sublime-project"
+				"C:\\wamp\\www\\myBlog\\myBlog.sublime-project"
 			]
 		],
-		"width": 380.0
+		"width": 475.0
 	},
 	"select_symbol":
 	{
