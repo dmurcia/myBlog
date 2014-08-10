@@ -4,12 +4,40 @@
 		"selected_items":
 		[
 			[
-				"border",
-				"border-radius"
+				"fon",
+				"font-weight"
+			],
+			[
+				"f",
+				"ff	font-family"
+			],
+			[
+				"mar",
+				"margin-bottom"
 			],
 			[
 				"pad",
-				"padding"
+				"pad	CSS - padding: 0;"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-radius"
 			],
 			[
 				"modal",
@@ -36,24 +64,12 @@
 				"emailModal"
 			],
 			[
-				"mar",
-				"margin-bottom"
-			],
-			[
 				"Ta",
 				"tahoma"
 			],
 			[
-				"font",
-				"font-family"
-			],
-			[
 				"po",
 				"pos:r	position:relative"
-			],
-			[
-				"text",
-				"text-decoration"
 			],
 			[
 				"pos",
@@ -196,10 +212,6 @@
 				"center"
 			],
 			[
-				"fon",
-				"font-size"
-			],
-			[
 				"backg",
 				"background-color"
 			],
@@ -220,13 +232,18 @@
 	"buffers":
 	[
 		{
-			"contents": "",
 			"file": "theme_wp/index.html",
-			"file_size": 0,
-			"file_write_time": 130518993668535357,
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 8796,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "theme_wp/style.css",
+			"settings":
+			{
+				"buffer_size": 1415,
 				"line_ending": "Windows"
 			}
 		}
@@ -238,12 +255,12 @@
 		"selected_items":
 		[
 			[
-				"Snippet: ",
-				"Snippet: bs3-col-12"
-			],
-			[
 				"insta",
 				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
 			],
 			[
 				"Package Control: ",
@@ -254,7 +271,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 685.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -275,6 +292,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/JDavid/AppData/Roaming/Sublime Text 3/Packages/User/MySignaturePlugin.sublime-settings",
+		"/C/Users/JDavid/AppData/Roaming/Sublime Text 3/Packages/MySignaturePlugin/MySignaturePlugin.sublime-settings",
+		"/C/Users/JDavid/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
 		"/C/wamp/www/myBlog/theme_wp/style.css",
 		"/C/wamp/www/myBlog/theme_wp/css/responsive.css",
 		"/C/wamp/www/myBlog/theme_wp/css/reset.css",
@@ -399,10 +419,7 @@
 		"/C/Users/jose.ocampo/Avventa Trabajos/SCJohnson/Ziploc/Ziploc 180/Fonts/Museo/webfontkit-20131111-172758/stylesheet.css",
 		"/C/Users/jose.ocampo/Plugins/h5bp-html5-boilerplate-72cdf1e/css/main.css",
 		"/C/Users/jose.ocampo/Plugins/h5bp-html5-boilerplate-3cd1967/css/main.css",
-		"/C/Users/jose.ocampo/Plugins/initializr-verekia-4.0/initializr/css/main.css",
-		"/C/Users/jose.ocampo/Downloads/initializr-verekia-4.0/initializr/css/main.css",
-		"/C/Users/jose.ocampo/Documents/Visual Studio 2012/WebSites/ziploc180/Category.aspx",
-		"/C/Users/jose.ocampo/Documents/Visual Studio 2012/WebSites/ziploc180/Default.aspx"
+		"/C/Users/jose.ocampo/Plugins/initializr-verekia-4.0/initializr/css/main.css"
 	],
 	"find":
 	{
@@ -519,15 +536,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 8796,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								931,
+								959
 							]
 						],
 						"settings":
@@ -537,7 +554,44 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 262.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "theme_wp/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1042,
+								1042
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1021.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -563,11 +617,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -626,7 +687,7 @@
 		[
 			[
 				"",
-				"C:\\wamp\\www\\myBlog\\myBlog.sublime-project"
+				"C:\\Users\\JDavid\\Documents\\Accenture\\Pullmantur\\pullmantur.sublime-project"
 			]
 		],
 		"width": 475.0
@@ -646,7 +707,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 205.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
